@@ -369,6 +369,10 @@ img {
   padding: 1rem;
   border-radius: 0.5rem;
   font-weight: var(--font-medium);
+  font-family: 'Poppins';
+  outline: none;
+  box-shadow: none;
+  text-decoration: none;
 }
 
 .button:hover {
