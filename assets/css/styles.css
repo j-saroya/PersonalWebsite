@@ -1180,7 +1180,7 @@ img {
   }
 
   .services__container {
-    grid-template-columns: repeat(2, 218px);
+    grid-template-columns: repeat(2, 450px);
     justify-content: center;
   }
 
